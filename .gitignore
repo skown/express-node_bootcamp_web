@@ -1,0 +1,6 @@
+dev-data/
+node_modules/
+.parcel-cache
+.eslintrc.json
+.prettierrc
+config.env
